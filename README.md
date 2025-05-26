@@ -139,10 +139,6 @@ HTML
       </div>
     </div>
 
-    <footer class="bg-dark text-white text-center py-3">
-        <p>&copy; 2024 | Designed and developed by NIKSHITHA S</p>
-    </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
@@ -253,8 +249,11 @@ SIGN UP
 
 ## OUTPUT:
 
-![alt text](project.png)
-![alt text](<sign up.png>)
+![Screenshot 2025-05-26 192536](https://github.com/user-attachments/assets/138c8f34-25b2-4115-8886-5696a6db0d5b)
+
+![Screenshot 2025-05-26 192550](https://github.com/user-attachments/assets/8c169df0-9528-4894-8775-464bff0d7da3)
+
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
